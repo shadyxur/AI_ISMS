@@ -1,0 +1,5 @@
+# Define Keyword Heuristics to make a crosswalk between NIST AI RMF rules and Preventive, Detective and Reactive actions
+preventive_keywords = ['establish', 'define', 'implement', 'restrict', 'enforce', 'configure', 'control', 'prohibit']
+detective_keywords = ['monitor', 'audit', 'review', 'assess', 'evaluate', 'track', 'log', 'verify']
+reactive_keywords  = ['respond', 'report', 'escalate', 'remediate', 'deactivate', 'recover', 'notify']
+
